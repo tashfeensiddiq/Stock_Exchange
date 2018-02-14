@@ -1,0 +1,17 @@
+https://code.google.com/p/yahoo-finance-managed/wiki/YahooFinanceAPIs
+
+
+http://itsliferay.blogspot.com/2011/09/get-real-time-stock-values-using-yahoo.html
+
+http://finance.yahoo.com/q;_ylt=Ao_wH_nvhX9YgL1PCrPAdYknv7gF;_ylc=X1MDMjE0MjQ3ODk0OARfcgMyBGZyA3VoM19maW5hbmNlX3dlYl9ncwRmcjIDc2EtZ3AEZ3ByaWQDBG5fZ3BzAzQEb3JpZ2luA2ZpbmFuY2UueWFob28uY29tBHBvcwMxBHBxc3RyAwRxdWVyeQNCWFAuTCwEc2FjAzEEc2FvAzE-?p=http%3A%2F%2Ffinance.yahoo.com%2Fq%3Fs%3DBXP.L%26ql%3D0&uhb=uhb2&fr=uh3_finance_vert_gs&s=BXP.L
+
+http://www.databasejournal.com/features/mysql/slideshows/top-10-mysql-gui-tools.html
+
+
+http://pastie.org/6419646
+
+## csv file can be opened with phpmyadmin
+
+
+## Saved my life
+http://www.seangw.com/wordpress/2010/01/formatting-stock-data-from-yahoo-finance/

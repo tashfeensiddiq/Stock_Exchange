@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MEMEBERS AREA</title>
+
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+
+</head>
+<body style="background-image: url(css/sativa.png)">
+
+<header>
+	<div class="menubar">
+      
+        <img src="css/logo.jpg" style="width: 100%; height: 100px;">
+       <div class="menu" style="margin-top: -6px;">
+       	  
+       	  <ul>
+		  <li><a href="home.php">Home</a></li>
+		  <li><a href="reglog.html">Members Area</a></li>
+		  <li><a href="market.php">Marketplace</a></li>
+		  <li><a href="company_details.php">Company details</a></li>
+		  <!-- <li><a href="reglog.html">sign in or up</a></li> -->
+    </ul>
+      
+       </div>
+        
+   </div>
+
+
+</header>
+
+
+<div class="regbd">
+	<div id="registerbd" >
+    <div name="registerhd"><h1> Fill up to register </h1></div>
+
+
+
+
+			<form action="register.php" method="post">
+			Name: &nbsp&nbsp&nbsp&nbsp&nbsp  <input type="text" name="name" required><br><br>
+			Password: <input type="password" name="password" required><br><br>
+			Email: &nbsp&nbsp&nbsp&nbsp&nbsp  <input type="email" name="mail" required><br><br>
+			<!-- Id: <input type="number" name="id" min="0" required><br><br> -->
+
+			<input type="submit" value="register">
+			</form>
+
+    </div>
+
+
+
+    <div id="loginbd" >
+         <div name="loginhd">
+         <h1> Fill up to login </h1>
+         </div>
+
+
+
+
+				<form action="login.php" method="post">
+				
+
+				Name: &nbsp&nbsp&nbsp&nbsp<input type="text" name="name" required><br><br>
+				Email:&nbsp&nbsp&nbsp&nbsp&nbsp <input type="email" name="mail" required><br><br>
+				Password: <input type="password" name="password" required><br><br>
+
+
+
+				<input type="submit" value="login">
+                </form>
+    </div>
+</div>
+
+
+       <div name="adlogin">
+	       	<div name="adloginbd" align="center" style="margin: 35%; border-style: outset; border-radius: 15px; padding: 23px;">
+		       <div name="adloginhd"><h1> Only for admins </h1></div>
+
+
+
+
+				<form action="adlogin.php" method="post">
+				
+				name: &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="text" name="name"  required><br><br>
+				Password: <input type="password" name="password" required><br><br>
+
+
+
+				<input type="submit" value="login">
+				</form>
+				
+		   </div>
+      
+       </div>
+
+</div>
+
+
+</body>
+</html>

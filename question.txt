@@ -1,0 +1,31 @@
+so many company so many analysis page?
+
+different forms in one php?
+
+priviledges set on different user?
+
+data pull from api?
+
+
+
+
+                                       update 15/11/15
+
+
+1.select box is not selecting.  Undefined index: company_name in C:\xampp\htdocs\Project\test.php on line 13
+
+
+
+
+                                       Final task to do
+
+1. css
+2. adding video and news.
+3. try responsiveness.
+4. admin php complete
+
+
+                                      to do list of 28th nov
+1. adding logo.
+2. do profile page both admin and user
+3. sessioning
